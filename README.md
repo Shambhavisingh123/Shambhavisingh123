@@ -66,4 +66,17 @@ Aggregates hackathons from various platforms to help users stay updated.
 ## 🤝 Let's Connect
 
 - 💌 Email: [shambhavisingh7474@gmail.com](mailto:shambhavisingh7474@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/shamb
+- 💼 LinkedIn: [linkedin.com/in/shambhavi-singh-1b1bb025b](https://www.linkedin.com/in/shambhavi-singh-1b1bb025b)
+- 💻 GitHub: [github.com/Shambhavisingh123](https://github.com/Shambhavisingh123)
+
+---
+
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b><br/>
+  — Cory House
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shambhavisingh123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
